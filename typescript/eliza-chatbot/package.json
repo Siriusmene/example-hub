@@ -13,7 +13,7 @@
     "@elizaos/core": "0.1.9",
     "@elizaos/plugin-bnb": "0.1.9",
     "@elizaos/plugin-node": "0.1.9",
-    "better-sqlite3": "11.5.0"
+    "better-sqlite3": "11.10.0"
   },
   "engines": {
     "node": ">=22"
