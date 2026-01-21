@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "@elizaos/adapter-sqlite": "0.1.9",
-    "@elizaos/client-direct": "0.1.9",
-    "@elizaos/core": "0.1.9",
+    "@elizaos/client-direct": "0.25.9",
+    "@elizaos/core": "1.0.0",
     "@elizaos/plugin-bnb": "0.1.9",
     "@elizaos/plugin-node": "0.1.9",
     "better-sqlite3": "11.5.0"
